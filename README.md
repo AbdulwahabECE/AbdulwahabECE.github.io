@@ -1,5 +1,4 @@
 # AbdulwahabECE.github.io
 
-https://jonbarron.info/
+Thank you to <a href="https://jonbarron.info/">"Jon Barron"</a> for the website template.
 
-Thank you to Jon Barron <a href="j_62sept.html?highlight=Jon Barron"> for the website template.
